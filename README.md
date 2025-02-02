@@ -18,7 +18,7 @@ Linhagem de dados se refere ao processo de rastrear o caminho dos dados desde su
 ***Como usar o SQLFlow***
 O SQLFlow é uma ferramenta poderosa para visualizar a linhagem de dados de maneira clara e interativa. Para gerar o diagrama de linhagem, siga as etapas abaixo:
 
-Acesse o [site oficial do SQLFlow](https://www.gudusoft.com/).
-Cole seu script SQL ou metadados no campo designado.
-O SQLFlow irá gerar um diagrama limpo e visual que representa a linhagem dos dados.
-Essa visualização facilita a compreensão do caminho que os dados percorrem dentro do sistema, ajudando a identificar potenciais melhorias ou problemas nos processos de dados.
+- Acesse o [site oficial do SQLFlow](https://www.gudusoft.com/).
+- Cole seu script SQL ou metadados no campo designado.
+- O SQLFlow irá gerar um diagrama limpo e visual que representa a linhagem dos dados.
+- Essa visualização facilita a compreensão do caminho que os dados percorrem dentro do sistema, ajudando a identificar potenciais melhorias ou problemas nos processos de dados.
