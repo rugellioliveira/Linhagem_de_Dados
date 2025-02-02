@@ -23,6 +23,19 @@ O SQLFlow é uma ferramenta poderosa para visualizar a linhagem de dados de mane
 - O SQLFlow irá gerar um diagrama limpo e visual que representa a linhagem dos dados.
 - Essa visualização facilita a compreensão do caminho que os dados percorrem dentro do sistema, ajudando a identificar potenciais melhorias ou problemas nos processos de dados.
 
+- Interface SQLFLow
 <p align="center">
   <img src="https://github.com/user-attachments/assets/688db944-9f3e-4c9b-88db-e49db57160a8" width="800px" />
+</p>
+
+- Diagrama ER
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/101d57d0-4886-473f-9511-f227e137dbb1" width="800px" />
+</p>
+
+
+
+- Data lineage
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e7666330-ce87-4f8b-b8f5-5ed88dd2c3ae" width="800px" />
 </p>
